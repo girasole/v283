@@ -41,4 +41,5 @@ Please confirm that you have completed the following requirements by checking al
   - [ ] Confirming all paper identifiers are unique and follow the naming convention
 
 ### Additional Comments
-<!-- Add any additional information that would help the PMLR editors understand and process this submission --> 
+
+<!-- please place any additional information for the PMLR Series Editors here -->
